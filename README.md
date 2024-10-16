@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sriharsha3487@gmail.com**
 
-- ⚡ Fun fact **Did you know? The average person generates about 1.7MB of data every second! That’s enough data to fill an average novel every week. Just imagine the insights waiting to be discovered! 📊💡**
+- ⚡**Fun fact:** Did you know? The average person generates about 1.7MB of data every second! That’s enough data to fill an average novel every week. Just imagine the insights waiting to be discovered! 📊💡
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
 <!-- Python -->
