@@ -49,5 +49,5 @@
 <a href="https://linkedin.com/in/sri-harsha-6464592b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-harsha-6464592b6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sriharsha3487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriharsha3487" height="30" width="40" /></a>
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SriHarsha077" alt="Sri Harsha Karri" /></p>
 
