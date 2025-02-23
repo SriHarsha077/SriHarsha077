@@ -6,7 +6,7 @@
 - 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **sriharsha3487@gmail.com**
-- Visit my Portfolio 
+- Visit my [Portfolio](https://sriharsha077.github.io/Sri-Harsha-s-Portfolio/)
 
 - ⚡**Fun fact:** Did you know? The average person generates about 1.7MB of data every second! That’s enough data to fill an average novel every week. Just imagine the insights waiting to be discovered! 📊💡
 <h3 align="left">Programming Languages:</h3>
